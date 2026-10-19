@@ -1,0 +1,59 @@
+{
+  "videos": [
+    {
+      "category": "Goonlimp",
+      "filename": "deep_space_odyssey.mp4",
+      "src": "videos/Goonlimp/deep_space_odyssey.mp4"
+    },
+    {
+      "category": "Goonlimp",
+      "filename": "tokyo_rain_reflections.mp4",
+      "src": "videos/Goonlimp/tokyo_rain_reflections.mp4"
+    },
+    {
+      "category": "Hero",
+      "filename": "neon_geometry_echo.mp4",
+      "src": "videos/Hero/neon_geometry_echo.mp4"
+    },
+    {
+      "category": "Hero",
+      "filename": "pride_prism_waves.mp4",
+      "src": "videos/Hero/pride_prism_waves.mp4"
+    },
+    {
+      "category": "Plap for Claps",
+      "filename": "portrait_prism_flow.mp4",
+      "src": "videos/Plap%20for%20Claps/portrait_prism_flow.mp4"
+    },
+    {
+      "category": "Plap for Claps",
+      "filename": "vertical_aesthetic_vibe.mp4",
+      "src": "videos/Plap%20for%20Claps/vertical_aesthetic_vibe.mp4"
+    },
+    {
+      "category": "PMVs",
+      "filename": "alpine_breeze_flow.mp4",
+      "src": "videos/PMVs/alpine_breeze_flow.mp4"
+    },
+    {
+      "category": "PMVs",
+      "filename": "aurora_borealis_glide.mp4",
+      "src": "videos/PMVs/aurora_borealis_glide.mp4"
+    },
+    {
+      "category": "WBCH",
+      "filename": "dreamy_clouds_drift.mp4",
+      "src": "videos/WBCH/dreamy_clouds_drift.mp4"
+    },
+    {
+      "category": "WBCH",
+      "filename": "infinite_lofi_station.mp4",
+      "src": "videos/WBCH/infinite_lofi_station.mp4"
+    },
+    {
+      "category": "WBCH",
+      "filename": "pastel_sunset_chill.mp4",
+      "src": "videos/WBCH/pastel_sunset_chill.mp4"
+    }
+  ]
+}
